@@ -316,7 +316,7 @@ echo ""
 echo ""
 echo "------------------------------------------------------------"
 echo ""
-echo "===============-[ Script Created By MDX CHANNEL ]-==============="
+echo "===============-[ Script Created By bagoesssh ]-==============="
 echo -e ""
 echo ""
 echo "" | tee -a log-install.txt
